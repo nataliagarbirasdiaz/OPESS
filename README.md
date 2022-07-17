@@ -10,7 +10,7 @@ OPESS meets occasionally on Thursdays from 5-6:30pm.
 
 ## Where? 
 
-Badia, EUI. The even is in-person. 
+Badia, EUI. The event is in-person and on-line. 
 
 ## Speakers for the Fall 2022
 
