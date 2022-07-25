@@ -28,8 +28,8 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
       + Title: TBD
       + Abstract: TBD
       + Location: Emeroteca
-* November 10:
-* November 24:  [Nicola Mastrorocco](http://nicolamastrorocco.com/)  
+* November 10: TBD
+* November 24:  [Nicola Mastrorocco](http://nicolamastrorocco.com/)
       + Title: TBD
       + Abstract: TBD
       + Location: Emeroteca 
