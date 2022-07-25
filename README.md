@@ -8,7 +8,7 @@ OPESS presents speakers working in the area of political economy. Presentations 
 
 ## When?
 
-OPESS meets occasionally on Thursdays from 5:00--6:30pm, and not more often than every other week. 
+OPESS meets occasionally on Thursdays from 5:00-6:30pm, and not more often than every other week. 
 
 ## Where? 
 
