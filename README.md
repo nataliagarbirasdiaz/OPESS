@@ -25,7 +25,7 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
       + Abstract: In this paper, I assess how changes in voter awareness of valence issues may influence not only voters but also candidate strategies. While revelations about corruption have been shown to influence citizens' votes, less is known about how outsiders take advantage of the increased opportunity to enter the electoral race. I construct a new measure of candidates' use of anti-corruption rhetoric using the manifestos registered by more than fifty thousand mayoral candidates in Brazil who ran for election between 2012 and 2020. I show that outsider candidates are, in general, more likely to resort to anti-corruption appeals. I then exploit the revelation of corruption in Brazilian mayoral accounts, using random annual audits conducted by the federal government to test whether outsider candidates are more likely to take advantage of changes in the salience of corruption. The results indicate that municipalities exposed to this valence shock experienced greater entry of outsider candidates. This paper points to how changes in corruption salience can help overcome barriers to entry for outside candidates; in doing so, it calls for future research on the potential effects on risks of democratic backsliding.
       + Location: Theatre
  * October 27:  [Manoel Gehrke](https://manoelgehrke.com/)
-      + Title: TBD
+      + Title: **Convictions for Corruption and Government Approval: Global Evidence**. The paper is co-authored with Feng Yang (Peking University).
       + Abstract: TBD
       + Location: Emeroteca
 * November 10: TBD
