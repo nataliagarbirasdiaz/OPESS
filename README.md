@@ -28,7 +28,6 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
       + Title: **Convictions for Corruption and Government Approval: Global Evidence**. Co-authored with Feng Yang (Peking University).
       + Abstract: TBD
       + Location: Emeroteca
-* November 10: TBD
 * November 24:  [Nicola Mastrorocco](http://nicolamastrorocco.com/)
    + Title: **State Capacity as an Organizational Problem. Evidence from the growth of the US State over 100 years**
    + Abstract: We study the process of modernization of the State through the lenses of the U.S. federal government, analysing how its bureaucratic structure, selection and promotion policies changes from 1816 to 1905. We digitize archival records containing the roster of all U.S. federal employees over this period, with information on their position in the bureaucratic hierarchy, specific occupation and compensation. The data contains information on the name, place of residence and place of birth of all employees, which allows to track their careers over time and to match them to historical censuses data. Using this unique dataset, we can study the organization of a State over the different stages of its development, and document how its organizational characteristics change during the process of modernization. 
