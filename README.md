@@ -26,7 +26,7 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
       + Location: Theatre
  * October 27:  [Manoel Gehrke](https://manoelgehrke.com/)
       + Title: **Convictions for Corruption and Government Approval: Global Evidence**. Co-authored with Feng Yang (Peking University).
-      + Abstract: TBD
+      + Abstract: In this paper, we investigate whether incumbent governments benefit politically from the punishment of corruption. Using an original data set on convictions from across the world and nationally representative surveys for 160 countries from 2006 to 2019, we show that convicting former heads of government for corruption reduces citizens' perceptions of corruption and boosts government support. We demonstrate that these effects last for approximately two years and are attenuated by a decision by the executive to pardon the conviction. These results inform debates on the political implications of anti-corruption, showing that convictions help to strengthen governments' hold on power.
       + Location: Emeroteca
 * November 24:  [Nicola Mastrorocco](http://nicolamastrorocco.com/)
    + Title: **State Capacity as an Organizational Problem. Evidence from the growth of the US State over 100 years**
