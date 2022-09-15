@@ -4,7 +4,7 @@ This repository stores information relevant to the "Occasional Political Economy
 
 # Description of the series
 
-OPESS presents speakers working in the area of political economy. Presentations are of papers that use economic methods as well as papers that substantively study the intersection of economics and politics. Presentations are limited to 30 minutes, followed by an hour of open discussion.  Please [register your interest in being a discussant](https://docs.google.com/forms/d/1AIPcv0yhalLWOD6w83UCsy62H7kCNslAdU2vm6f5GH8/edit) for one of the presentations by Friday 16th September at 5pm. 
+OPESS presents speakers working in the area of political economy. Presentations are of papers that use economic methods as well as papers that substantively study the intersection of economics and politics. Presentations are limited to 30 minutes, followed by an hour of open discussion.  Please [register your interest in being a discussant](https://docs.google.com/forms/d/1AIPcv0yhalLWOD6w83UCsy62H7kCNslAdU2vm6f5GH8/edit) for one of the presentations by Monday 19th September at 5pm. 
 
 ## When?
 
