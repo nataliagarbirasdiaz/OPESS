@@ -5,7 +5,7 @@ This repository stores information relevant to the "Occasional Political Economy
 # Description of the series
 
 OPESS presents speakers working in the area of political economy. Presentations are of papers that use economic methods as well as papers that substantively study the intersection of economics and politics. Presentations are limited to 30 minutes, followed by an hour of open discussion.  Please [register your interest in being a discussant](https://docs.google.com/forms/d/1AIPcv0yhalLWOD6w83UCsy62H7kCNslAdU2vm6f5GH8/edit) for one of the presentations by Wednesday 21st September at 5pm. 
-Following the events, discussants and participants  may join the speaker and organizers for dinner –– unfortunately, this will have to be at their own expense. Participants may also sign up to meet up with speakers outside the event –– for example to show them around on EUI premises. To sign up for these activities, follow [this link](https://eui1-my.sharepoint.com/:x:/g/personal/natalia_garbirasdiaz_eui_eu/EdTM2ENF5RZCjP8iUTXa3s8B_b6rUoMhq3I_ygjVb_rkWQ?e=KTE2oc). 
+Following the events, discussants and participants  may join the speaker and organizers for dinner –– unfortunately, this will have to be at their own expense. Participants may also sign up to meet up with speakers outside the event –– for example to show them around on EUI premises. To sign up for the dinner, meet-ups, and campus tours, follow [this link](https://eui1-my.sharepoint.com/:x:/g/personal/natalia_garbirasdiaz_eui_eu/EdTM2ENF5RZCjP8iUTXa3s8B_b6rUoMhq3I_ygjVb_rkWQ?e=KTE2oc). 
 
 ## When?
 
