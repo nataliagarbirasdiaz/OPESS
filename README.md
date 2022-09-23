@@ -5,6 +5,7 @@ This repository stores information relevant to the "Occasional Political Economy
 # Description of the series
 
 OPESS presents speakers working in the area of political economy. Presentations are of papers that use economic methods as well as papers that substantively study the intersection of economics and politics. Presentations are limited to 30 minutes, followed by an hour of open discussion.  Please [register your interest in being a discussant](https://docs.google.com/forms/d/1AIPcv0yhalLWOD6w83UCsy62H7kCNslAdU2vm6f5GH8/edit) for one of the presentations by Wednesday 21st September at 5pm. 
+Following the events, discussants and participants  may join the speaker and organizers for dinner –– unfortunately, this will have to be at their own expense. Participants may also sign up to meet up with speakers outside the event –– for example to show them around on EUI premises. To sign up for these activities, follow [this link](https://eui1-my.sharepoint.com/:x:/g/personal/natalia_garbirasdiaz_eui_eu/EdTM2ENF5RZCjP8iUTXa3s8B_b6rUoMhq3I_ygjVb_rkWQ?e=KTE2oc). 
 
 ## When?
 
@@ -13,6 +14,8 @@ OPESS meets occasionally on Thursdays from 5:00-6:30pm, and not more often than 
 ## Where? 
 
 Badia, EUI. See below for the exact location for each meeting. The event is in-person and on-line. Registration is required for online attendance. Attendance is generally restricted to members of the EUI community.
+
+
 
 ## Speakers during Fall 2022
 
@@ -32,7 +35,7 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
       + Location: Seminar Room 2
       + Discussant: Marta Korczak
 * November 24:  [Nicola Mastrorocco](http://nicolamastrorocco.com/)
-   + Title: **State Capacity as an Organizational Problem. Evidence from the growth of the US State over 100 years**
+   + Title: **State Capacity as an Organizational Problem. Evidence from the growth of the US State over 100 years**. Co-authored with Edoardo Teso (Northwestern University). 
    + Abstract: We study the process of modernization of the State through the lenses of the U.S. federal government, analysing how its bureaucratic structure, selection and promotion policies changes from 1816 to 1905. We digitize archival records containing the roster of all U.S. federal employees over this period, with information on their position in the bureaucratic hierarchy, specific occupation and compensation. The data contains information on the name, place of residence and place of birth of all employees, which allows to track their careers over time and to match them to historical censuses data. Using this unique dataset, we can study the organization of a State over the different stages of its development, and document how its organizational characteristics change during the process of modernization. 
    + Location: Seminar Room 2 
    + Discussant: Dylan Potts
