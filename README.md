@@ -20,7 +20,7 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
 ## Speakers during Fall 2022
 
   * September 29: [Gary Cox](https://gwcox.sites.stanford.edu/)
-      +  Title: **Nonunitary Parties, Government Formation, and Gamson’s Law**
+      +  Title: **[Nonunitary Parties, Government Formation, and Gamson’s Law](https://login.eui.idm.oclc.org/connect?session=s91Z9YK58t4SXdvZ&qurl=https%3a%2f%2fwww.cambridge.org%2fcore%2fservices%2faop-cambridge-core%2fcontent%2fview%2fS0003055421000277)**
       + Abstract: Following the coalition literature highlighting intraparty politics (e.g., Giannetti and Benoit 2009; Laver 1999; Strøm 2003), I address the well-known “portfolio allocation paradox” (Warwick and Druckman 2006) by introducing a new model of government formation based on two main assumptions. First, no actor has a structural advantage in the negotiations leading to government formation. Second, all actors who can deprive the coalition of a majority (or other critical threshold size) must be included in the negotiations—not just parties. Whereas standard bargaining models are inconsistent with Gamson’s Law, the model proposed here implies that equilibrium portfolio allocations should be mostly Gamsonian but with a small-party bias, as the empirical literature has long found. Empirically, I show that my model outperforms the literature’s standard specification (due to Browne and Franklin 1973). Moreover, one of the model’s new predictions—that candidate-centered electoral rules should promote more Gamsonian portfolio allocations—is supported. 
       + Location: Seminar Room 2 
       + Discussant: Daniel Goldstein
