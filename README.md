@@ -12,7 +12,7 @@ OPESS meets occasionally on Thursdays from 5:00-6:30pm, and not more often than 
 
 ## Where? 
 
-Badia, EUI. See below for the exact location for each meeting. The event is in-person and on-line. Registration is required for online attendance. Attendance is generally restricted to members of the EUI community.
+Badia Fiesolana, EUI. See below for the exact location for each meeting. The event is in-person and on-line. Registration is required for online attendance. Attendance is generally restricted to members of the EUI community.
 
 
 
