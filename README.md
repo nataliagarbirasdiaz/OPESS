@@ -42,4 +42,4 @@ Badia, EUI. See below for the exact location for each meeting. The event is in-p
  
  ## Speakers during Spring 2023 (provisional and incomplete)
  
-  * June 1:  [Maria Carreri](https://www.mariacarreri.com/)
+  * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
