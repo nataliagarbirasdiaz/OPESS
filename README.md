@@ -1,6 +1,6 @@
 # README
 
-This repository stores information relevant to the "Occasional Political Economy Seminar Series" at the EUI. The series is organized by Miriam Golden and Natalia Garbiras-Díaz, along with Susanna Garside and Julian Vierlinger. 
+This repository stores information relevant to the "Occasional Political Economy Seminar Series" at the EUI. The series is organized by [Miriam Golden](https://www.miriamgolden.com/) and [Natalia Garbiras-Díaz](https://www.nataliagarbirasdiaz.com/), along with [Susanna Garside](http://www.susannagarside.com/), [Julian Vierlinger](https://www.eui.eu/people?id=julian-vierlinger), and [Daniel Urquijo](https://www.eui.eu/people?id=daniel-urquijo). 
 
 # Description of the series
 
