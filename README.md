@@ -14,7 +14,18 @@ OPESS meets occasionally on Thursdays from 5:00-6:30pm, and not more often than 
 
 Badia Fiesolana, EUI. See below for the exact location for each meeting. The event is in-person and on-line. Registration is required for online attendance. Attendance is generally restricted to members of the EUI community.
 
+# Upcoming speakers
 
+## Speakers during Winter 2023 (provisional and incomplete)
+ 
+  * March 9:  [Mathias Poertner](http://www.mathiaspoertner.com/)
+  * April 13: [Jack Snyder](https://polisci.columbia.edu/content/jack-lewis-snyder)
+ 
+ ## Speakers during Spring 2023 (provisional and incomplete)
+ 
+  * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
+
+# Past speakers
 
 ## Speakers during Fall 2022
 
@@ -27,7 +38,7 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
       + Title: **Convictions for Corruption and Government Approval: Global Evidence**. Co-authored with Feng Yang (Peking University).
       + Abstract: In this paper, we investigate whether incumbent governments benefit politically from the punishment of corruption. Using an original data set on convictions from across the world and nationally representative surveys for 160 countries from 2006 to 2019, we show that convicting former heads of government for corruption reduces citizens' perceptions of corruption and boosts government support. We demonstrate that these effects last for approximately two years and are attenuated by a decision by the executive to pardon the conviction. These results inform debates on the political implications of anti-corruption, showing that convictions help to strengthen governments' hold on power.
       + Location: Emeroteca
-         + Discussant: Anna Clemente
+      + Discussant: Anna Clemente
   * November 10: [Natalia Garbiras-Diaz](https://www.eui.eu/people?id=natalia-garbiras-diaz)
       + Title: **Corruption and the Rise of Political Outsiders: Evidence from Audits and Elections in Brazil**
       + Abstract: In this paper, I assess how changes in voter awareness of valence issues may influence not only voters but also candidate strategies. While revelations about corruption have been shown to influence citizens' votes, less is known about how outsiders take advantage of the increased opportunity to enter the electoral race. I construct a new measure of candidates' use of anti-corruption rhetoric using the manifestos registered by more than fifty thousand mayoral candidates in Brazil who ran for election between 2012 and 2020. I show that outsider candidates are, in general, more likely to resort to anti-corruption appeals. I then exploit the revelation of corruption in Brazilian mayoral accounts, using random annual audits conducted by the federal government to test whether outsider candidates are more likely to take advantage of changes in the salience of corruption. The results indicate that municipalities exposed to this valence shock experienced greater entry of outsider candidates. This paper points to how changes in corruption salience can help overcome barriers to entry for outside candidates; in doing so, it calls for future research on the potential effects on risks of democratic backsliding.
@@ -39,11 +50,3 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
    + Location: Seminar Room 2 
    + Discussant: Dylan Potts
     
-    
- ## Speakers during Winter 2023 (provisional and incomplete)
- 
-  * March 9:  [Mathias Poertner](http://www.mathiaspoertner.com/)
- 
- ## Speakers during Spring 2023 (provisional and incomplete)
- 
-  * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
