@@ -16,7 +16,7 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
 
 # Upcoming speakers
 
-## Speakers during Winter 2023 (provisional and incomplete)
+## Speakers during Winter 2023
  
   * January 26:  [Nicola Mastrorocco](http://nicolamastrorocco.com/)
   * February 9:  [Nelson Ruíz](https://sites.google.com/view/nruiz)
