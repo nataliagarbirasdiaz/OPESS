@@ -26,7 +26,6 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
   * February 23:  [Daniel Goldstein](https://daniel-a-n-goldstein.com/)
   * March 9:  [Mathias Poertner](http://www.mathiaspoertner.com/)
   * March 23:  [Nelson Ruíz](https://sites.google.com/view/nruiz)
-  * April 13: [Jack Snyder](https://polisci.columbia.edu/content/jack-lewis-snyder)
  
  ## Speakers during Spring 2023 (provisional and incomplete)
  
