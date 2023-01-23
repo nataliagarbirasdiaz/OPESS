@@ -29,7 +29,7 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
      + Location: Seminar Room 2 
      + Discussant: TBD
   * February 23:  [Daniel Goldstein](https://daniel-a-n-goldstein.com/)
-     + Title: **The Weight of Precedent: the Two-Term Tradition and Norm Violations in the United States Presidency**. 
+     + Title: **The Weight of Precedent: the Two-Term Tradition and Norm Violations in the United States Presidency**. Co-authored with Collin Schumock (Yale University).
      + Abstract: In the United States, a political norm initiated by George Washington and Thomas Jefferson limited presidents for generations to two terms in office. Despite challenges, the norm lasted 144 years and was only violated by Franklin D. Roosevelt, a popular incumbent during a crisis. We ask when an informal constraint on an executive carries weight and when it falters. Leveraging a dynamic formal model, we uncover how an incumbent executive's electoral prospects among citizens and the role of parties interact to make a ''norm of constraint'' credible. Additionally, we consider an executive's choice to establish a term-limit norm, the endogenous reinforcement of the norm, and when it is `formalized' into codified law. 
      + Location: Seminar Room 2
      + Discussant: TBD
