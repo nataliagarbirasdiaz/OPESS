@@ -36,9 +36,11 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
   * March 9:  [Mathias Poertner](http://www.mathiaspoertner.com/)
   * March 23:  [Nelson Ruíz](https://sites.google.com/view/nruiz)
  
- ## Speakers during Spring 2023 (provisional and incomplete)
+ ## Speakers during Spring 2023
  
   * April 27:  [Giovanna Invernizzi](https://giovannainvernizzi.com/)
+  * May 11:  TBD
+  * May 25:  [Pavithra Suryanarayan](https://pavisuri.com/)
   * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
 
 # Past speakers
