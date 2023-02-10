@@ -36,6 +36,10 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
      + Location: Seminar Room 2
      + Discussant: TBD
   * March 9:  [Mathias Poertner](http://www.mathiaspoertner.com/)
+     + Title: **Democratizing Political Parties: Field Experimental Evidence from Latin America**. Co-authored with Christopher L. Carter (University of Virginia).
+     + Abstract: In representative democracies, political parties play a crucial role in linking voters to the state. Yet, in many young democracies, parties fail to fulfill this key responsibility, providing neither accountability for poor politician performance nor effective and accurate representation of citizens’ preferences. Drawing on a large-scale field experiment with a party in Ecuador, in which citizens are given an opportunity to provide feedback on the party’s platform, this paper explores how different forms of participation affect citizens' willingness to become and stay engaged politically as well as the quality of participation. It shows that both participation through individualized participation (through an online platform) and communal participation (through deliberative assemblies) increase citizens’ sense of political efficacy and interest in politics. Furthermore, both forms of participation increase citizens’ support for the party and future engagement with it. The findings elucidate ways in which parties can (re)gain political trust and foster activism and they and have important implications for broader debates about democratic inclusion and representation.
+     + Location: Seminar Room 2
+     + Discussant: TBD
   * March 23:  [Nelson Ruíz](https://sites.google.com/view/nruiz)
  
  ## Speakers during Spring 2023
