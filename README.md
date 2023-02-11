@@ -4,7 +4,7 @@ This repository stores information relevant to the "Occasional Political Economy
 
 # Description of the series
 
-OPESS presents speakers working in the area of political economy. Presentations are of papers that use economic methods as well as papers that substantively study the intersection of economics and politics. Presentations are 30-40 minutes, followed by a 5-10 minute discussion from a pre-assigned discussant and a 40 minute general Q\&A session. You can register [here](https://apps.eui.eu/EventsWebInterface/EventsInterface/EventDetail?eventId=556380).
+OPESS presents speakers working in the area of political economy. Presentations are of papers that use economic methods as well as papers that substantively study the intersection of economics and politics. Presentations are 30-40 minutes, followed by a 5-10 minute discussion from a pre-assigned discussant and a 40 minute general Q\&A session. You can register [here](https://apps.eui.eu/EventsWebInterface/EventsInterface/EventDetail?eventId=556380). If you want to be a discussant for any upcoming talk, let us know [here](https://forms.gle/KrJphMtUhhyBp2or6).
 
 Following the events, discussants and participants  may join the speaker and organizers for dinner –– unfortunately, this will have to be at their own expense. Participants may also sign up to meet up with speakers outside the event –– for example to show them around on EUI premises. To sign up for the dinner, meet-ups, and campus tours, follow [this link](https://eui1-my.sharepoint.com/:x:/g/personal/daniel_urquijo_eui_eu/EWEcIUzHjmlGnizW2JvjeoUBbj2ZaA1aiqkYYWnCSredow?e=ftn5OR). 
 
