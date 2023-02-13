@@ -41,6 +41,10 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
      + Location: Seminar Room 2
      + Discussant: TBD
   * March 23:  [Nelson Ruíz](https://sites.google.com/view/nruiz)
+     + Title: **Can political fiscal cycles be stopped? Evidence from a public spending ban near elections**. Co-authored with Luis R. Martínez (University of Chicago).
+     + Abstract: Political fiscal cycles are pervasive across democracies; there is the use of the public purse close to election dates. Can political fiscal cycles be stopped? Using contract-level microdata for the entire Colombian state, we study the effects of a regulation that forbids contracting at all levels of government in the four months before the 2018 national elections. We find that there is substantial bunching in spending in the weeks immediately before the regulation comes into effect. These last-minute contracts: (i) disproportionately benefit previous local political candidates. Using text analysis for matching, we find that: (ii) these contracts disproportionately go to contractors without previous experience, and (iii) have more time extensions and over-costs. As part of our analysis of mechanisms, we show that the bunching is more prevalent in municipalities with previous vote-buying reports and that contracts in the bunching period are increasingly targeted to high vote-performing politicians. Overall, we find that forbidding contracting actual creates a displacement of the political fiscal cycle rather than stopping it.
+     + Location: Emeroteca
+     + Discussant: TBD
  
  ## Speakers during Spring 2023
  
