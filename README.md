@@ -17,6 +17,36 @@ OPESS meets occasionally on Thursdays from 5:00-6:30pm, and not more often than 
 Badia Fiesolana, EUI. See below for the exact location for each meeting. The event is in-person and on-line. Registration is required for online attendance. Attendance is generally restricted to members of the EUI community.
 
 # Upcoming speakers
+ 
+ ## Speakers during Spring 2023
+ 
+  * April 27:  [Giovanna Invernizzi](https://giovannainvernizzi.com/)
+     + Title: **Why do Parties Merge? Electoral Volatility and Long-Term Coalitions**.
+     + Abstract: What brings competing parties to coalesce into new entities? I present a model of electoral competition in which parties can form pre-electoral alliances and decide how binding these should be. Parties face a dynamic trade-off between insuring themselves against significant shifts in public opinion and allowing flexibility to respond to future electoral changes. The model shows that more binding alliances such as mergers emerge in equilibrium when electoral volatility is high; instead, when voters are predictable (e.g., highly partisan), parties either run alone or form more flexible pre-electoral coalitions. When the electorate is sufficiently volatile, a risk-averse party might prefer an extreme merger partner to a moderate one. 
+     + Location: Seminar Room 4
+     + Discussant: TBD
+  * May 11:   [Daniel Goldstein](https://daniel-a-n-goldstein.com/)
+     + Title: **The Weight of Precedent: the Two-Term Tradition and Norm Violations in the United States Presidency**. Co-authored with Collin Schumock (Yale University).
+     + Abstract: In the United States, a political norm initiated by George Washington and Thomas Jefferson limited presidents for generations to two terms in office. Despite challenges, the norm lasted 144 years and was only violated by Franklin D. Roosevelt, a popular incumbent during a crisis. We ask when an informal constraint on an executive carries weight and when it falters. Leveraging a dynamic formal model, we uncover how an incumbent executive's electoral prospects among citizens and the role of parties interact to make a ''norm of constraint'' credible. Additionally, we consider an executive's choice to establish a term-limit norm, the endogenous reinforcement of the norm, and when it is `formalized' into codified law. 
+     + Location: Seminar Room 2
+     + Discussant: TBD
+  * May 25:  [Pavithra Suryanarayan](https://pavisuri.com/)
+     + Title: **When Losing The State Drives Opposition to Redistribution: An Experiment in India**.
+     + Abstract: TBA
+     + Location: Seminar Room 2
+     + Discussant: TBA
+  * June 1:  [Aila M. Matanock](http://www.ailamatanock.com/)
+     + Title: **TBD**.
+     + Abstract: TBD
+     + Location: Seminar Room 2
+     + Discussant: TBD
+  * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
+     + Title: **The Political and Economic Effects of Progressive Era Reforms in U.S. Cities: Evidence from Newly Digitized Data**.
+     + Abstract: How did Progressive era reforms affect the lives of urban residents across U.S. cities? The historical record is unclear. Some scholars argue that many of the progressive reforms were motivated by nativist and racist animus and explicitly designed to benefit white business elites at the expense of disadvantaged groups. Others point out that reformers often sought to improve urban living and working conditions and expand access to education, which generated new opportunities for social mobility. We inform this debate leveraging new data on 455 U.S. cities from 1900-1940 combining i) dates of adoption of reform-style government, ii) deanonymized census data, iii) data on political participation, and iv) detailed municipal budget data. Using a difference-in-differences design, we document the impact of Progressive reforms on political participation, public goods spending, and the relative socioeconomic well-being of black, immigrant, and working class residents vis-a-vis whites, natives, and business elites. Despite finding that voter turnout decreased in reformed cities, we uncover only a modest increase in earnings inequality across more and less advantaged groups and no significant differences in expenditure patterns as a consequence of reform. This approach provides a comprehensive portrait of the legacy of Progressive municipal institutions and suggests that, on average, the reforms of this era may have exacerbated political inequality more than economic inequality, at least in the first decades following their adoption.
+     + Location: Seminar Room 2
+     + Discussant: TBD
+
+# Past speakers
 
 ## Speakers during Winter 2023
  
@@ -30,39 +60,16 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
      + Abstract: This paper studies the impact of the Protestant Reformation on wealth distribution and inequality in confessionally divided Germany, between 1400 and 1800. The Reformation expanded social welfare, but provided it in a particularistic way to insiders only. This gave Protestantism an ambiguous character in terms of redistribution and its impact on inequality. I develop a theoretical framework of this trade-off between welfare expansion and particularistic provision, and test its implications empirically, using a Difference-in-Differences and an Instrumental Variable strategy. In line with the theoretical framework, I document that the Reformation exacerbated inequality overall, by making marginal poor people relatively poorer. The result is driven by the introduction of new particularistic poor relief policies in Protestant communities. The inegalitarian character of Protestantism, typically found in contemporary societies, can be traced back to the beginning of the Reformation in the sixteenth century. 
      + Location: Seminar Room 2 
      + Discussant: Pau Grau-Vilalta
-  * February 23: CANCELLED 
   * March 9:  [Mathias Poertner](http://www.mathiaspoertner.com/)
      + Title: **Democratizing Political Parties: Field Experimental Evidence from Latin America**. Co-authored with Christopher L. Carter (University of Virginia).
      + Abstract: In representative democracies, political parties play a crucial role in linking voters to the state. Yet, in many young democracies, parties fail to fulfill this key responsibility, providing neither accountability for poor politician performance nor effective and accurate representation of citizens’ preferences. Drawing on a large-scale field experiment with a party in Ecuador, in which citizens are given an opportunity to provide feedback on the party’s platform, this paper explores how different forms of participation affect citizens' willingness to become and stay engaged politically as well as the quality of participation. It shows that both participation through individualized participation (through an online platform) and communal participation (through deliberative assemblies) increase citizens’ sense of political efficacy and interest in politics. Furthermore, both forms of participation increase citizens’ support for the party and future engagement with it. The findings elucidate ways in which parties can (re)gain political trust and foster activism and they and have important implications for broader debates about democratic inclusion and representation.
      + Location: Seminar Room 2
       + Discussant: Tarek Jaziri Arjona
   * March 23:  [Nelson Ruíz](https://sites.google.com/view/nruiz)
-     + Title: **Can political fiscal cycles be stopped? Evidence from a public spending ban near elections**. Co-authored with Luis R. Martínez (University of Chicago).
-     + Abstract: Political fiscal cycles are pervasive across democracies; there is the use of the public purse close to election dates. Can political fiscal cycles be stopped? Using contract-level microdata for the entire Colombian state, we study the effects of a regulation that forbids contracting at all levels of government in the four months before the 2018 national elections. We find that there is substantial bunching in spending in the weeks immediately before the regulation comes into effect. These last-minute contracts: (i) disproportionately benefit previous local political candidates. Using text analysis for matching, we find that: (ii) these contracts disproportionately go to contractors without previous experience, and (iii) have more time extensions and over-costs. As part of our analysis of mechanisms, we show that the bunching is more prevalent in municipalities with previous vote-buying reports and that contracts in the bunching period are increasingly targeted to high vote-performing politicians. Overall, we find that forbidding contracting actual creates a displacement of the political fiscal cycle rather than stopping it.
-     + Location: Emeroteca
+     + Title: **Mind and machine: rooting out corrupt politicians**. Co-authored with Thomas S. Robinson (LSE) and Ezequiel González-Ocantos (Oxford).
+     + Abstract: Corruption is pervasive across the world, yet voters keep electing corrupt politicians. One common explanation is that voters simply lack information on whether candidates are corrupt, yet studies that deliberately provide such information find electoral accountability is weak at best or non-existent at worst. So can we root out corrupt politicians? We approach the problem taking a different approach: rather than disclosing corruption itself we explore what kind of readily available information allows voters to identify and not vote for corrupt politicians. Based on a dataset of politicians in Colombia, we use a novel approach: first, we employ machine learning techniques to identify political and personal characteristics that are predictive of corrupt practices. We then design an experiment that randomises the provision of this information to evaluate what candidate information enables voters to discriminate corrupt from non-corrupt politicians. Our study aims to contribute to the policy push for greater information disclosure about candidates for public office by refining exactly what information leads to better voter choices. Preliminary results indicate that the presence of candidates’ images and information on candidates’ political experience increases the likelihood of choosing a corrupt politician.
+     + Location: Seminar Room 2
      + Discussant: Daniel Goldstein
- 
- ## Speakers during Spring 2023
- 
-  * April 27:  [Giovanna Invernizzi](https://giovannainvernizzi.com/)
-     + Title: **Why do Parties Merge? Electoral Volatility and Long-Term Coalitions**.
-     + Abstract: What brings competing parties to coalesce into new entities? I present a model of electoral competition in which parties can form pre-electoral alliances and decide how binding these should be. Parties face a dynamic trade-off between insuring themselves against significant shifts in public opinion and allowing flexibility to respond to future electoral changes. The model shows that more binding alliances such as mergers emerge in equilibrium when electoral volatility is high; instead, when voters are predictable (e.g., highly partisan), parties either run alone or form more flexible pre-electoral coalitions. When the electorate is sufficiently volatile, a risk-averse party might prefer an extreme merger partner to a moderate one. 
-     + Location: Seminar Room 4
-     + Discussant: TBA
-  * May 11:   [Daniel Goldstein](https://daniel-a-n-goldstein.com/)
-     + Title: **The Weight of Precedent: the Two-Term Tradition and Norm Violations in the United States Presidency**. Co-authored with Collin Schumock (Yale University).
-     + Abstract: In the United States, a political norm initiated by George Washington and Thomas Jefferson limited presidents for generations to two terms in office. Despite challenges, the norm lasted 144 years and was only violated by Franklin D. Roosevelt, a popular incumbent during a crisis. We ask when an informal constraint on an executive carries weight and when it falters. Leveraging a dynamic formal model, we uncover how an incumbent executive's electoral prospects among citizens and the role of parties interact to make a ''norm of constraint'' credible. Additionally, we consider an executive's choice to establish a term-limit norm, the endogenous reinforcement of the norm, and when it is `formalized' into codified law. 
-     + Location: Seminar Room 2
-     + Discussant: TBD
-  * May 25:  [Pavithra Suryanarayan](https://pavisuri.com/)
-     + Title: **When Losing The State Drives Opposition to Redistribution: An Experiment in India**.
-  * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
-     + Title: **The Political and Economic Effects of Progressive Era Reforms in U.S. Cities: Evidence from Newly Digitized Data**.
-     + Abstract: How did Progressive era reforms affect the lives of urban residents across U.S. cities? The historical record is unclear. Some scholars argue that many of the progressive reforms were motivated by nativist and racist animus and explicitly designed to benefit white business elites at the expense of disadvantaged groups. Others point out that reformers often sought to improve urban living and working conditions and expand access to education, which generated new opportunities for social mobility. We inform this debate leveraging new data on 455 U.S. cities from 1900-1940 combining i) dates of adoption of reform-style government, ii) deanonymized census data, iii) data on political participation, and iv) detailed municipal budget data. Using a difference-in-differences design, we document the impact of Progressive reforms on political participation, public goods spending, and the relative socioeconomic well-being of black, immigrant, and working class residents vis-a-vis whites, natives, and business elites. Despite finding that voter turnout decreased in reformed cities, we uncover only a modest increase in earnings inequality across more and less advantaged groups and no significant differences in expenditure patterns as a consequence of reform. This approach provides a comprehensive portrait of the legacy of Progressive municipal institutions and suggests that, on average, the reforms of this era may have exacerbated political inequality more than economic inequality, at least in the first decades following their adoption.
-     + Location: Seminar Room 2
-     + Discussant: TBD
-
-# Past speakers
 
 ## Speakers during Fall 2022
 
