@@ -23,7 +23,7 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
   * April 27:  [Giovanna Invernizzi](https://giovannainvernizzi.com/)
      + Title: **Why do Parties Merge? Electoral Volatility and Long-Term Coalitions**.
      + Abstract: What brings competing parties to coalesce into new entities? I present a model of electoral competition in which parties can form pre-electoral alliances and decide how binding these should be. Parties face a dynamic trade-off between insuring themselves against significant shifts in public opinion and allowing flexibility to respond to future electoral changes. The model shows that more binding alliances such as mergers emerge in equilibrium when electoral volatility is high; instead, when voters are predictable (e.g., highly partisan), parties either run alone or form more flexible pre-electoral coalitions. When the electorate is sufficiently volatile, a risk-averse party might prefer an extreme merger partner to a moderate one. 
-     + Location: Seminar Room 4
+     + Location: Seminar Room 2
      + Discussant: TBD
   * May 11:   [Daniel Goldstein](https://daniel-a-n-goldstein.com/)
      + Title: **The Weight of Precedent: the Two-Term Tradition and Norm Violations in the United States Presidency**. Co-authored with Collin Schumock (Yale University).
@@ -36,8 +36,8 @@ Badia Fiesolana, EUI. See below for the exact location for each meeting. The eve
      + Location: Seminar Room 2
      + Discussant: TBA
   * June 1:  [Aila M. Matanock](http://www.ailamatanock.com/)
-     + Title: **TBD**.
-     + Abstract: TBD
+     + Title: **Forming Political Attitudes toward Peace Processes in Low-Information Contexts**. Co-authored with Leonardo R. Arriola (Berkeley) and Oren Samet-Marram (Berkeley).
+     + Abstract: Civil conflict is a significant threat to peace and stability around the world, affecting many states and producing millions of casualties. While most modern civil conflicts end with peace processes rather than victories, serious challenges to peace persist. Citizen attitudes are increasingly seen as crucial for peace and stability, but little is known about how public opinion forms in these contexts. We investigate how citizens form attitudes about peace processes, specifically in the context of Myanmar, which sought to end a long-running civil conflict but in a unique situation where the country was just beginning to build out of a low level of development and open from authoritarianism. Using a survey experiment, we show that elite cues have some limited effects, with the position taken by well-known political leaders influencing policy preferences, but peer have no effects. We also show, however, that most respondents have very limited engagement around the peace process. We compare this case to other countries with recent conflict and peace processes to better understand how citizens form attitudes, especially in places with limited information, which complements existing work on these questions.
      + Location: Seminar Room 2
      + Discussant: TBD
   * June 8:  [Maria Carreri](https://www.mariacarreri.com/)
